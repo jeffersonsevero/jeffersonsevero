@@ -25,11 +25,11 @@ My name is Jefferson Severo, I'm from Brazil (🇧🇷) and currently working as
 
 ### 🚀 Some Status
 
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielpatrola&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=jeffersonsevero&hide=issues&count_private=true&show_icons=true&theme=tokyonight" />
 
 ### 🔝 Langagues & Technologies
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpatrola&hide=css" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonsevero&hide=css" />
 
 <div style="
 display: flex;
